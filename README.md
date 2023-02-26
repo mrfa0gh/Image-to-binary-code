@@ -2,6 +2,7 @@
 Make ur photo with binary code
 # بسم الله الرحمن الرحيم
 
+
 # How to use?
 open index.html and drop ur photo ..... then u will see it with binary code
 
